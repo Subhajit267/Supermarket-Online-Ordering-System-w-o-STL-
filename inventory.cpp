@@ -1,6 +1,6 @@
 /*
     A simple supermarket ordering system without STL
-    main.cpp
+    inventory.cpp
     Author: SUBHAJIT HALDER 
        DATE: 13/09/2025
 */
