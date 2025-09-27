@@ -1,3 +1,9 @@
+/*
+    A simple supermarket ordering system without STL
+    itemvector.cpp
+    Author: SUBHAJIT HALDER 
+       DATE: 13/09/2025
+*/
 #include "itemvector.h"
 #include <iostream>
 
