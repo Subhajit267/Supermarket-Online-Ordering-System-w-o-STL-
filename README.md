@@ -348,6 +348,7 @@ Contributions are welcome! Areas for improvement:
 - Object-Oriented Programming enthusiast
 - Focus on practical C++ applications
 - Inventory management systems specialist
+- mail: subhajithalder267@outlook.com
 
 ---
 
